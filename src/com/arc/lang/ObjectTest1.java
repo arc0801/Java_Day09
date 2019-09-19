@@ -29,6 +29,16 @@ public class ObjectTest1 {
 		
 		
 		
+		m1.toString();
+		System.out.println(m1);
+		
+		int num = m1.hashCode();
+		System.out.println(num);
+		
+		
+		System.out.println(String.CASE_INSENSITIVE_ORDER);
+		
+		
 		
 	}
 }

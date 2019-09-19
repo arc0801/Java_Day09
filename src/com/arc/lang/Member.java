@@ -18,6 +18,16 @@ public class Member {
 		System.out.println("생성자 호출");
 	}
 
+	@Override
+	public String toString() {
+		System.out.println("Age : "+this.age);
+		System.out.println("Num : "+this.num);
+		return "";
+	}
+	
+	
+	
+	
 	
 	
 	@Override
