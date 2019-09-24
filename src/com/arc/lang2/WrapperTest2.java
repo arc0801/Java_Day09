@@ -40,6 +40,7 @@ public class WrapperTest2 {
 			System.out.println("비밀번호를 다시 설정해주세요(8ㅁ8)");
 		}
 
+		System.out.println("룰루");
 	}//main
 
 }
